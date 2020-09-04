@@ -1,4 +1,4 @@
-package in28min.helloWorld.hello;
+package helloWorld.hello;
 
 import java.util.Locale;
 

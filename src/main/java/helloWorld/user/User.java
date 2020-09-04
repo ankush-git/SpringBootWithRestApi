@@ -1,4 +1,4 @@
-package in28min.helloWorld.user;
+package helloWorld.user;
 
 import java.util.Date;
 

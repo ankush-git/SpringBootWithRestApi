@@ -1,4 +1,4 @@
-package in28min.helloWorld.user.Exception;
+package helloWorld.user.exception;
 
 import java.util.Date;
 

@@ -1,4 +1,4 @@
-package in28min.helloWorld.user;
+package helloWorld.user;
 
 import java.net.URI;
 import java.util.List;
@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
-import in28min.helloWorld.user.Exception.UserNotFoundException;
+import helloWorld.user.exception.UserNotFoundException;
 
 @RestController
 public class UserResource {
