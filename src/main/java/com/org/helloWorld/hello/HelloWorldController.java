@@ -1,4 +1,4 @@
-package helloWorld.hello;
+package com.org.helloWorld.hello;
 
 import java.util.Locale;
 

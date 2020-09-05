@@ -1,4 +1,4 @@
-package helloWorld.user;
+package com.org.helloWorld.user;
 
 import java.util.Date;
 
